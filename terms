@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Use | Reflexion</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f9f9f9;
+      color: #1a1a1a;
+      line-height: 1.7;
+    }
+    header {
+      background: #1c1c1e;
+      color: white;
+      padding: 40px 24px 32px;
+      text-align: center;
+    }
+    header h1 { font-size: 28px; font-weight: 700; }
+    header p  { margin-top: 8px; color: #aeaeb2; font-size: 14px; }
+    .container {
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 0 24px 80px;
+    }
+    h2 {
+      font-size: 18px;
+      font-weight: 700;
+      margin: 36px 0 10px;
+      color: #1c1c1e;
+      border-left: 4px solid #0066cc;
+      padding-left: 12px;
+    }
+    p  { margin-bottom: 12px; font-size: 15px; color: #3c3c43; }
+    ul { margin: 8px 0 16px 20px; }
+    li { margin-bottom: 6px; font-size: 15px; color: #3c3c43; }
+    a  { color: #0066cc; }
+    .card {
+      background: white;
+      border: 1px solid #e5e5ea;
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin: 16px 0;
+    }
+    .card h3 { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
+    .updated {
+      display: inline-block;
+      background: #e8f4fd;
+      color: #0066cc;
+      font-size: 13px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      margin-top: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 32px 24px;
+      font-size: 13px;
+      color: #8e8e93;
+      border-top: 1px solid #e5e5ea;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Terms of Use</h1>
+  <p>Reflexion</p>
+  <span class="updated">Last updated: April 26, 2026</span>
+</header>
+
+<div class="container">
+
+  <p>
+    These Terms of Use explain the rules that apply when you use Reflexion ("we," "our," or "us")
+    and our mobile application ("App"). By using Reflexion, you agree to these Terms.
+  </p>
+
+  <h2>1. Use of the App</h2>
+  <p>
+    Reflexion is provided for personal, non-commercial use. You agree to use the App only for lawful purposes
+    and in a way that does not interfere with the App, other users, or the operation of related services.
+  </p>
+
+  <h2>2. Reflexion Is Not Medical or Professional Advice</h2>
+  <p>
+    Reflexion is a casual reflex testing game and personal performance tracking tool. The App is not intended
+    to provide medical, psychological, fitness, safety, driving, athletic, or professional advice.
+  </p>
+  <p>
+    Reaction times and performance results shown in the App are for entertainment and personal tracking only.
+    You should not rely on Reflexion to evaluate your health, diagnose any condition, determine your ability
+    to drive or operate equipment, or make safety-related decisions.
+  </p>
+
+  <h2>3. Gameplay Results and Accuracy</h2>
+  <p>
+    Reflexion may display reaction times, trends, achievements, stats, and other performance information.
+    These results can be affected by device hardware, screen refresh rate, software performance, touch input,
+    distractions, and other factors outside our control.
+  </p>
+  <p>
+    We do not guarantee that any result, score, trend, or comparison in the App is perfectly accurate,
+    complete, or suitable for any particular purpose.
+  </p>
+
+  <h2>4. In-App Purchases</h2>
+  <p>
+    Reflexion may offer optional paid features, including a Pro upgrade. In-app purchases are processed by Apple
+    through the App Store. We do not collect or store your payment card information.
+  </p>
+  <p>
+    Purchases, refunds, billing, and subscriptions, if any are offered, are handled according to Apple’s App Store
+    policies and your Apple account settings.
+  </p>
+
+  <h2>5. App Availability and Changes</h2>
+  <p>
+    We may update, modify, pause, or discontinue parts of Reflexion at any time. We may also change features,
+    design, pricing, availability, or supported devices as the App evolves.
+  </p>
+  <p>
+    We are not responsible if the App is temporarily unavailable, interrupted, delayed, or affected by technical issues.
+  </p>
+
+  <h2>6. User Data and Privacy</h2>
+  <p>
+    Your use of Reflexion is also governed by our Privacy Policy, which explains how information is collected,
+    used, and handled in connection with the App.
+  </p>
+  <p>
+    You can view the Privacy Policy at:
+    <a href="privacy.html">privacy.html</a>
+  </p>
+
+  <h2>7. Intellectual Property</h2>
+  <p>
+    Reflexion, including its design, name, interface, features, text, graphics, and other content, is owned by us
+    or our licensors and is protected by applicable intellectual property laws.
+  </p>
+  <p>
+    You may not copy, modify, distribute, sell, reverse engineer, or create derivative works from the App except
+    where allowed by applicable law.
+  </p>
+
+  <h2>8. Prohibited Conduct</h2>
+  <p>You agree not to:</p>
+  <ul>
+    <li>Use the App for unlawful, harmful, or abusive purposes</li>
+    <li>Attempt to interfere with or disrupt the App</li>
+    <li>Attempt to access systems, data, or features you are not authorized to access</li>
+    <li>Copy, modify, or misuse App content or functionality</li>
+    <li>Use the App in a way that could damage, disable, or impair the App or related services</li>
+  </ul>
+
+  <h2>9. Disclaimer of Warranties</h2>
+  <p>
+    Reflexion is provided "as is" and "as available." To the fullest extent permitted by law, we disclaim all
+    warranties, whether express or implied, including warranties of merchantability, fitness for a particular purpose,
+    and non-infringement.
+  </p>
+  <p>
+    We do not guarantee that Reflexion will always be available, error-free, secure, accurate, or uninterrupted.
+  </p>
+
+  <h2>10. Limitation of Liability</h2>
+  <p>
+    To the fullest extent permitted by law, we will not be liable for any indirect, incidental, special,
+    consequential, or punitive damages, or for any loss of data, revenue, profits, or use, arising from or related
+    to your use of Reflexion.
+  </p>
+
+  <h2>11. Third-Party Services</h2>
+  <p>
+    Reflexion may rely on third-party services, such as Apple App Store services, StoreKit, analytics tools,
+    diagnostics tools, or other service providers. These services may be governed by their own terms and policies.
+  </p>
+
+  <h2>12. Termination</h2>
+  <p>
+    We may suspend or terminate access to Reflexion if you violate these Terms or use the App in a way that may
+    harm the App, other users, or related services.
+  </p>
+
+  <h2>13. Changes to These Terms</h2>
+  <p>
+    We may update these Terms from time to time. If changes are made, the updated version will be posted with a new
+    “Last updated” date. Continued use of Reflexion after changes are posted means you accept the updated Terms.
+  </p>
+
+  <h2>14. Contact</h2>
+  <p>Email: tyevans.dev@icloud.com</p>
+
+</div>
+
+<footer>
+  &copy; 2026 Reflexion
+</footer>
+
+</body>
+</html>
